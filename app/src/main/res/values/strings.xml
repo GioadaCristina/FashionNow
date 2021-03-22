@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proiect</string>
+    <string name="adaugare_produs_nou">Adaugare Produs Nou</string>
+    <string name="log_in">Log in</string>
+    <string name="cine_a_spus_ca_banii_nu_pot_cumpara_fericirea_nu_a_stiut_unde_sa_faca_cumparaturile">Cine a spus ca banii nu pot cumpara fericirea nu a stiut unde sa faca cumparaturile.</string>
+    <string name="ai_deja_cont_log_in">Ai deja cont? Log in!</string>
+    <string name="inregistreaza_te">Inregistreaza-te!</string>
+    <string name="todo">TODO</string>
+    <string name="parola">Parola</string>
+    <string name="salveaza_parola">Salveaza parola</string>
+    <string name="ai_uitat_parola">Ai uitat parola?</string>
+    <string name="admin">Admin?</string>
+    <string name="nume_utilizator">Nume Utilizator</string>
+    <string name="username">Username</string>
+    <string name="nume">Nume</string>
+    <string name="numar_telefon">Numar Telefon</string>
+    <string name="register">Register</string>
+</resources>
